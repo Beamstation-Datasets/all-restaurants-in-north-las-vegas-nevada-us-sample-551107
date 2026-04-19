@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8514b8fa-b6f2-43aa-a889-4b91dd7d746b",
+  "export_job_id": "d62cd490-00ae-498e-8e3e-3bf237c5693f",
   "id_short": 551107,
-  "published_at": "2026-04-13T19:13:12Z",
+  "published_at": "2026-04-19T19:15:06Z",
   "repo_name": "all-restaurants-in-north-las-vegas-nevada-us-sample-551107",
   "sample_asset_name": "beamstation_551107_restaurants-us-nv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/551107/beamstation_551107_restaurants-us-nv_SAMPLE_DIST.csv",
-  "sample_records": 53,
-  "sample_sha256": "6f54746b64051da2a6047c764bd661b931951cf23a064980c34b3874909888cc",
-  "sample_size_bytes": 195554,
-  "total_records": 530
+  "sample_records": 51,
+  "sample_sha256": "6a97b498e4f5d822c4d0ae0a96308e5d93d5464a67ab69cc1d1320fc4a251bdf",
+  "sample_size_bytes": 198143,
+  "total_records": 516
 }
